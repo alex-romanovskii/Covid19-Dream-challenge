@@ -9,7 +9,9 @@
 ### Result  
 -The developed model was evaluated using a ROC AUC and a PR AUC metrics and got the following results: ROC AUC=0.6546 and PR AUC=0.0679.
 
-### P.S. I publish only the report for reference
+### P.S. I publish only the [report](https://github.com/alex-romanovskii/Covid19-Dream-challenge/blob/main/report.pdf) for reference
+
+
 
 ### Reference  
 [1] - https://covid.cd2h.org/dream
